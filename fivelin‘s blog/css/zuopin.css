@@ -1,0 +1,18 @@
+/*我的作品*/
+.container{display: flex;justify-content: space-between;width: 1000px;margin: auto;margin-top: 80px;}
+.container .left{width: 50%;position: relative;height: 500px;}
+.container .left p{color: #44507b;}
+.container .left .pa3-1{display: block;width: 170px;height: 200px;position: absolute;top: 123px;border-radius: 10px;z-index: 1111;}
+.txt1{position: absolute;top: 90px;}
+.pa3-2{display: block;width: 120px;height: 120px;left: 260px;position: absolute;border-radius: 10px;top: 55px;z-index: 99;}
+.txt2{position: absolute;left: 260px;top: 20px;}
+.pa3{display: block;width: 100px;right: 30px;position: absolute;top: 150px;}
+.pa4{width: 140px;display: block;height: 210px;position: absolute;top: 210px;right: 85px;border-radius: 10px;}
+.txt3{position: absolute;top: 430px;right: 137px;}
+.pa5{position: absolute;display: block;width: 100px;top: 300px;left: 150px;}
+.right{width: 50%;padding-top: 10px;}
+.right p{color: #9498cd;margin-left: 30px;margin-bottom: 30px;font-size: 22px;}
+.right li{font-size: 30px;line-height: 35px;margin-left: 60px;background: url(../images/li.png)no-repeat 100px 55px;width: 200px;background-size: 90px 10px;}
+.right span{font-size: 15px;width: 350px;display: block;margin-left: 200px;margin-top: 30px;color: rgb(90 90 90);}
+.bf img{display: block;width: 100%;height: 200px;}
+.bf{margin-top: 20px;margin-right: -50px;padding-left: 50px;}
