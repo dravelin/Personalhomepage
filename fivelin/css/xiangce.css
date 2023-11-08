@@ -1,0 +1,8 @@
+/*相册分享*/
+*{margin: 0px;padding: 0px;text-decoration: none;box-sizing: border-box;list-style: none;}
+body{background-color: rgb(245,242,232);}
+.container{width: 1000px;margin: auto;margin-top: 70px;}
+.container p{color: #9498cd;width: 100%;margin-bottom: 30px;font-size: 21px;}
+.container ul{display: flex;justify-content: space-between;flex-wrap: wrap;cursor: pointer;}
+.container ul img{display: block;width: 201px;margin-bottom: 50px;border-radius: 10px;}
+.get{text-decoration: underline;color: rgb(214,168,90);}
